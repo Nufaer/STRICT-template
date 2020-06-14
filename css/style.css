@@ -168,8 +168,8 @@ p{
 .form-control{
     background-color: transparent;
 }
-#formGroupExampleInput3{
-    height: 100px;
+#input3{
+    padding: 15px 12px 60px 12px;
 }
 .form-check{
     text-align: left;
